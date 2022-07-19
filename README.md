@@ -1,7 +1,7 @@
 # Sergei Boreiko
 ## Contacts
-- Location: Minsk, Belarus
-- Phone: +375 44 764 82 84
+- Location: Batumi,Georgia
+- Phone: +995 557 533464
 - Email: boreiko.for.work@gmail.com
 - [GitHub](https://github.com/jsbrownn)
 ## About me
@@ -9,46 +9,7 @@ I am easy to learn, not afraid of difficult tasks. I like writing code and it br
 I find a common language with people without problems, I have an active life position, I am looking for
 positive in any situation and, as a rule, I succeed it. I am critical of any
 tasks and try to find alternative solutions.
-## Skills
-  ### Hard skills
-  * HTMl
-  * CSS
-  * SASS
-  * JS
-  * BEM
-  * GIT
-  * BASH
-  * Bootstrap
-  * PostgresSQL
-  * React
-  * Ruby on Rails
-  * Slim
-  ### Soft skills
-  * Sociability. I can find contact with almost anyone
-  * Teamwork skills
-  * Active life position
-  * I think that there are no impossible tasks and I live accordingly
-  * Critical thinking
-  * Good sense of humour
-  * I like to teach and I know that I have the ability to do this
-  * Taking reasonable initiative
-  * __Modesty)__
 
-## Code Example
-```
-const mixedArray = [3, 13, 74, 14, 66, 15, 22, 4];
-const isEven = num => {
-    if (num % 2 == 0) {
-        return true
-    } else {
-        return false
-    }
-}
-const filterArray = (mixedArray, isEven) => {
-    mixedArray.filter( (elem) => {
-        return isEven(elem)
-    })
-}
 console.log(filterArray(mixedArray, isEven));
 ```
 ## Education
