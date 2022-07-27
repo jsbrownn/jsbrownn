@@ -10,7 +10,6 @@ I find a common language with people without problems, I have an active life pos
 positive in any situation and, as a rule, I succeed it. I am critical of any
 tasks and try to find alternative solutions.
 
-console.log(filterArray(mixedArray, isEven));
 ```
 ## Education
 1. "Minsk State Professional and Technical College of Installation and Lifting and Transportation works" (electrician for repair and maintenance of electrical equipment), 2010 - 2011
