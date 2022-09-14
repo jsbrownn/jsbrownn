@@ -1,4 +1,4 @@
-# Sergei Boreiko
+# Siarhei Bareika
 ## Contacts
 - Location: Wroclaw, Poland
 - Phone: +48 570261702
