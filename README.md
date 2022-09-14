@@ -1,7 +1,7 @@
 # Sergei Boreiko
 ## Contacts
-- Location: Batumi,Georgia
-- Phone: +995 557 533464
+- Location: Wroclaw, Poland
+- Phone: +48 570261702
 - Email: boreiko.for.work@gmail.com
 - [GitHub](https://github.com/jsbrownn)
 ## About me
@@ -25,8 +25,8 @@ tasks and try to find alternative solutions.
     * head of the Administrative Department 2021 - present
 
 ## Languages
-1. English (A1)
-2. Polish (A1)
+1. English (A2+)
+2. Polish (A2+)
 3. Russian (native)
 3. Belarusian (native)
 
